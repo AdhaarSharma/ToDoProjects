@@ -4,3 +4,7 @@ Projects to be implemented
 - Create To Do List using Kotlin (Android)
 - Data Capture from WhatsApp
 - Creative Coding
+- Gym SaaS
+- Broker SaaS
+- PsychAssist
+- Life Builder
