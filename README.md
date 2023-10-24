@@ -8,3 +8,4 @@ Projects to be implemented
 - Broker SaaS
 - PsychAssist
 - Life Builder
+- Doctor Prescription Analysis
