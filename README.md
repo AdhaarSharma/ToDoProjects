@@ -9,3 +9,4 @@ Projects to be implemented
 - PsychAssist
 - Life Builder
 - Doctor Prescription Analysis
+- Asset Management App
