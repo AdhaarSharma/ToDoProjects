@@ -10,3 +10,6 @@ Projects to be implemented
 - Life Builder
 - Doctor Prescription Analysis
 - Asset Management App
+- Materialist
+- Builder Project App
+- Kitty Fund
