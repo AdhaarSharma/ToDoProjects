@@ -14,3 +14,7 @@ Projects to be implemented
 - Builder Project App
 - Kitty Fund
 - Memory Capsule for secure photo sharing
+
+# ToDoProjects
+- Carpentry
+- Thrift Store
