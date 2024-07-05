@@ -15,6 +15,6 @@ Projects to be implemented
 - Kitty Fund
 - Memory Capsule for secure photo sharing
 
-# ToDoProjects
+# Interests
 - Carpentry
 - Thrift Store
