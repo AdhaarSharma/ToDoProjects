@@ -13,3 +13,4 @@ Projects to be implemented
 - Materialist
 - Builder Project App
 - Kitty Fund
+- Memory Capsule for secure photo sharing
