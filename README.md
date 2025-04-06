@@ -14,6 +14,8 @@ Projects to be implemented
 - Builder Project App
 - Kitty Fund
 - Memory Capsule for secure photo sharing
+- Product which capitalizes knowledge of Humanities and other non tech subjects (Philosophy)
+- Build gatekept spaces on scale to meet niche demand at scale
 
 # Interests
 - Carpentry
