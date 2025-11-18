@@ -17,7 +17,7 @@ Projects to be implemented
 - Product which capitalizes knowledge of Humanities and other non tech subjects (Philosophy)
 - Build gatekept spaces on scale to meet niche demand at scale
 - Tenant Finder
-- Brand alue for money shoes
+- Brand value for money shoes
 
 # Interests
 - Carpentry
